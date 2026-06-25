@@ -1,0 +1,17 @@
+{
+    "model": "qwen3.5:9b",
+
+    "embedding_model": "nomic-embed-text",
+
+    "dataset": "dataset",
+
+    "chunk_size": 512,
+
+    "chunk_overlap": 64,
+
+    "top_k": 5,
+
+    "temperature": 0.2,
+
+    "max_context": 4096
+}

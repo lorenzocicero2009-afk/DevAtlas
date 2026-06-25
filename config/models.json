@@ -1,0 +1,10 @@
+{
+    "default": "qwen3.5:9b",
+
+    "supported": [
+        "qwen3.5:9b",
+        "gemma3:4b",
+        "llama3.1:8b",
+        "mistral:7b"
+    ]
+}
