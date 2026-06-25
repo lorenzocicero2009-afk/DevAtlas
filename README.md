@@ -1,3 +1,5 @@
+One framework. Infinite assistants.
+
 # DevAtlas
 
 > Build your own specialized local AI assistant.
