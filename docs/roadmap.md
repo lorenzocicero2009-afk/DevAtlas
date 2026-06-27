@@ -1,26 +1,37 @@
 # DevAtlas Roadmap
 
-# v1, v2 e v3
+## v1.0 - MVP
 
-## Core
-- [x] Document Loader v1
-- [x] Parser v1
-- [x] Chunker v1
-- [ ] Embeddings v1
-- [ ] Vector Database v1
-- [ ] Retriever v1
-- [ ] Ollama Chat v1
-- [ ] Source citations v2
-- [ ] Conversation memory v2
+### Core
+- [x] Document Loader
+- [x] Parser
+- [x] Chunker
+- [x] Embedding Engine
+- [ ] Vector Database
+- [ ] Retriever
+- [ ] Ollama Chat
+- [ ] Source Citations
+- [ ] Conversation Memory
 
-## Features
-- [ ] Hardware detector v2
-- [ ] Automatic model recommendation v2
-- [ ] Automatic Ollama model download v2
-- [ ] Model benchmark v3
-- [ ] Web UI v3
-- [ ] Desktop App v3
-- [ ] Multi-user profiles v3
-- [ ] Plugin system v3
-- [ ] Settings page v3
-- [ ] Import/Export knowledge base v3
+### Architecture
+- [x] Providers
+- [x] Core modules
+- [x] Services
+- [x] Utils
+
+### Features
+- [ ] Hardware detector
+- [ ] Automatic model recommendation
+- [ ] Automatic Ollama model download
+- [ ] Model benchmark
+- [ ] Settings page
+- [ ] Import / Export knowledge base
+
+---
+
+## v2.0
+
+- [ ] Web UI
+- [ ] Desktop App
+- [ ] Multi-user profiles
+- [ ] Plugin system

@@ -71,3 +71,23 @@ without modifying the core code.
 ## License
 
 MIT License
+
+## Current Status
+
+### Completed
+
+- Document loading
+- Document parsing
+- Document chunking
+- Embedding generation
+- Modular provider architecture
+
+### In Progress
+
+- Vector Database
+
+### Planned
+
+- Retrieval
+- Chat
+- Web UI

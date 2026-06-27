@@ -1,0 +1,11 @@
+# LLM
+ollama>=0.6.0
+
+# Data validation
+pydantic>=2.0
+
+# HTTP client
+httpx>=0.28
+
+# Testing
+pytest>=8.0

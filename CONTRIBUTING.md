@@ -16,6 +16,10 @@ Thanks for your interest in DevAtlas!
 - Follow PEP8
 - Write clear comments
 - Keep functions small and readable
+- Use type hints whenever possible.
+- Keep providers separated by functionality.
+- Write tests for new modules.
+- Follow the existing project structure.
 
 ## Reporting bugs
 
